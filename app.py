@@ -1,1 +1,4 @@
-print("Hello from Python on Rahti!")
+import time
+while True:
+    print("Running...")
+    time.sleep(30)
